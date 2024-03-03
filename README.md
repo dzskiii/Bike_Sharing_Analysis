@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Dicoding Bike Sharing Analysis Dashboard ✨
 
 ## Setup environment
 ```
